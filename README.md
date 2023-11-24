@@ -2,10 +2,13 @@ Destination Point is a mobile app project designed to enhance location-based exp
 
 Technologies:
 
+FE
 Vanilla Javascript
 HTML
 CSS
 Cordova
+
+BE
 .Net Api 2
 C#
 SQL
